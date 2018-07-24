@@ -1,0 +1,3 @@
+timestamp:1532322972084;device:DoorControl;msg:none;user=门控制器通讯正常;text=连接门控制器恢复正常;read=false;type=2
+timestamp:1532322996138;device:DoorControl;msg:none;user=门控制器通讯正常;text=连接门控制器恢复正常;read=false;type=2
+timestamp:1532357281526;device:DoorControl;msg:none;user=门控制器通讯正常;text=连接门控制器恢复正常;read=false;type=2
